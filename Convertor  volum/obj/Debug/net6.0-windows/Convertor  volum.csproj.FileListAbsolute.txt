@@ -1,0 +1,17 @@
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\bin\Debug\net6.0-windows\Convertor  volum.exe
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\bin\Debug\net6.0-windows\Convertor  volum.deps.json
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\bin\Debug\net6.0-windows\Convertor  volum.runtimeconfig.json
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\bin\Debug\net6.0-windows\Convertor  volum.dll
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\bin\Debug\net6.0-windows\Convertor  volum.pdb
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\obj\Debug\net6.0-windows\Convertor  volum.csproj.AssemblyReference.cache
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\obj\Debug\net6.0-windows\Convertor__volum.Form1.resources
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\obj\Debug\net6.0-windows\Convertor  volum.csproj.GenerateResource.cache
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\obj\Debug\net6.0-windows\Convertor  volum.GeneratedMSBuildEditorConfig.editorconfig
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\obj\Debug\net6.0-windows\Convertor  volum.AssemblyInfoInputs.cache
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\obj\Debug\net6.0-windows\Convertor  volum.AssemblyInfo.cs
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\obj\Debug\net6.0-windows\Convertor  volum.csproj.CoreCompileInputs.cache
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\obj\Debug\net6.0-windows\Convertor  volum.dll
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\obj\Debug\net6.0-windows\refint\Convertor  volum.dll
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\obj\Debug\net6.0-windows\Convertor  volum.pdb
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\obj\Debug\net6.0-windows\Convertor  volum.genruntimeconfig.cache
+C:\proiecte C# laptop\Convertor  volum\Convertor  volum\obj\Debug\net6.0-windows\ref\Convertor  volum.dll
